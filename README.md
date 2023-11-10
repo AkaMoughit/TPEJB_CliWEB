@@ -46,3 +46,16 @@ Lorsqu'une application EAR est déployée sur un serveur d'applications Java EE,
 En résumé, le format EAR est utilisé pour regrouper et déployer des applications d'entreprise Java, simplifiant le processus de déploiement et de gestion en regroupant tous les composants nécessaires dans une seule archive.
 
 
+# EXECUTION 
+
+### video
+
+https://github.com/AkaMoughit/TPEJB_CliWEB/assets/73391568/f3cd96ff-b09f-42b9-abef-790aae0df4f7
+
+### screenshots
+
+![image](https://github.com/AkaMoughit/TPEJB_CliWEB/assets/73391568/88c89c11-bb0d-4f99-8a7f-d271781db483)
+
+![image](https://github.com/AkaMoughit/TPEJB_CliWEB/assets/73391568/1d5068d2-6500-40cf-9db5-83a53ed6407c)
+
+![image](https://github.com/AkaMoughit/TPEJB_CliWEB/assets/73391568/65cc591b-8705-403f-9024-05480a28e58a)
